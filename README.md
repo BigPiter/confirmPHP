@@ -1,3 +1,5 @@
+原文地址：https://github.com/Xilesun/blog/issues/1
+
 前几日在新购的macbook Pro上搭建PHP环境，因为网上提供的资料不够准确，故走了一些弯路，特此记录，以帮助有需要的新手。OS X自带Apache和PHP，这里讲的是使用Nginx服务器。
 
 以下为详细步骤：
